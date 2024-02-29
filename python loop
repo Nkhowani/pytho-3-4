@@ -14,3 +14,9 @@ while m < N:
     m *= 2
     k =+ 1
 print(k)
+
+#Лабораторная работа 5. Строки Вариант 10
+print("Вводите строку: ")
+s = input()
+s = s.replace('1','one')
+print(s)
